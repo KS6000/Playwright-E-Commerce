@@ -1,5 +1,7 @@
 # Playwright E-Commerce & Flight Booking Automation
 
+[![Playwright Tests](https://github.com/KS6000/Playwright-E-Commerce/actions/workflows/playwright.yml/badge.svg)](https://github.com/KS6000/Playwright-E-Commerce/actions/workflows/playwright.yml)
+
 A JavaScript-based test automation portfolio project using **Playwright** and the **Page Object Model (POM)** design pattern.
 
 This project demonstrates automated end-to-end testing of E-Commerce and Flight Booking scenarios using the QA Practice website.
